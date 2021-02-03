@@ -1,6 +1,6 @@
 # Практична робота "Реалізація успадкуванняЯ 
-Я промоделював динозавра 
-![](https://news.24tv.ua/resources/photos/news/1200x675_DIR/202001/1269094.jpg?202001181040)
+## Я промоделював динозавра 
+![](http://pngimg.com/uploads/dinosaur/dinosaur_PNG16606.png)
 
 <img src="https://github.com/ppc-ntu-khpi/Inheritance-Starter/blob/master/images/cat.jpg" width="100%"/>
 <img src="https://github.com/ppc-ntu-khpi/Inheritance-Starter/blob/master/images/Cat-Diagram.png" width="100%"/>
